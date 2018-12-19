@@ -1,0 +1,3 @@
+token=NTI0NDIzMDQ1MDI5Mjk4MTk1.Dvn2-g.xCAk_GBowwIEVaBVEk2jlRL-_OE
+owner=282448097848721408
+prefix="!"
