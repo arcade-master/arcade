@@ -1,4 +1,4 @@
-# jagrosh's playlist
+# harvard's playlist
 # lots of formats are supported, as shown below
 # JustSomeBots playlist format is supported as well
 
