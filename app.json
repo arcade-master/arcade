@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/jvm"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "arcade",
+  "scripts": {
+    "postdeploy": "master/run_windows.bat"
+  },
+  "stack": "heroku-18"
+}
