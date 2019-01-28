@@ -1,2 +1,2 @@
 
-heroku run:detached java -jar harvbot.jar
+web: java -jar harvbot.jar --app harvbot
