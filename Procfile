@@ -1,2 +1,2 @@
 
-heroku deploy:jar harvbot.jar --app harvbot
+web: java jar harvbot.jar
