@@ -1,1 +1,1 @@
-heroku run:detached java -jar moosic.jar -Xmx100M
+heroku run:detached java -jar harvbot.jar
