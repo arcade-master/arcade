@@ -1,1 +1,1 @@
-heroku:java -jar harvbot.jar -Xmx1000M
+heroku deploy:java -jar harvbot.jar -Xmx1000M
