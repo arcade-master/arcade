@@ -1,1 +1,1 @@
-heroku run:java -jar harvbot.jar -Xmx100M
+heroku run: java -jar harvbot.jar
