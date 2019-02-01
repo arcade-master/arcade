@@ -1,1 +1,1 @@
-heroku run: java -jar harvbot.jar
+heroku: java -jar harvbot.jar
