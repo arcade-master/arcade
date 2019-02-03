@@ -1,5 +1,5 @@
 # Harvbot
-A music bot for Bread Server.
-(https://discord.gg/BF3ua9q)
+A music bot for [Bread Discord Server](https://discord.gg/BF3ua9q).
+Was made using [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot)
 
-Open-Source: https://github.com/jagrosh/MusicBot
+
