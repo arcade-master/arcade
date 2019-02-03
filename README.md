@@ -4,6 +4,6 @@ A music bot for Bread Discord Server. Hosted on [Heroku](heroku.com).
 
 
 Was made using [Jagrosh's Music Bot](https://github.com/jagrosh/MusicBot).
-Heroku Instructions: https://github.com/Repulser/Moosic.wiki.git
+Heroku Instructions: https://github.com/Repulser/Moosic.wiki
 
 
